@@ -20,6 +20,7 @@ namespace LC242
     }
     public class Solution
     {
+        // Method 1 through dictionary
         public bool IsAnagram(string s, string t)
         {
             if (s.Length != t.Length)
@@ -64,6 +65,7 @@ namespace LC242
             return true;
         }
 
+        // Method 2 through Array
         public bool IsAnagram_Through_Array(string s, string t)
         {
             if (s.Length != t.Length)
@@ -107,6 +109,8 @@ namespace LC242
             }
             return true;
         }
+
+        // Method3 through array
         public bool IsAnagramConscise(string s, string t)
         {
             if (s.Length != t.Length)
