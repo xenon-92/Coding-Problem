@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10DetectLoopinLL", "10Detec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9PrintValuesofLLAsc&Desc_recursively", "9PrintValuesofLLAsc&Desc_recursively\9PrintValuesofLLAsc&Desc_recursively.csproj", "{0C5DE46A-91C4-4AF3-880C-2BCF0BB48771}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11breakCycleinLL", "11breakCycleinLL\11breakCycleinLL.csproj", "{3B106F5B-A1E1-4856-BF89-6F002660E1CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,18 @@ Global
 		{0C5DE46A-91C4-4AF3-880C-2BCF0BB48771}.Release|x64.Build.0 = Release|Any CPU
 		{0C5DE46A-91C4-4AF3-880C-2BCF0BB48771}.Release|x86.ActiveCfg = Release|Any CPU
 		{0C5DE46A-91C4-4AF3-880C-2BCF0BB48771}.Release|x86.Build.0 = Release|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Debug|x64.Build.0 = Debug|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Debug|x86.Build.0 = Debug|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Release|x64.ActiveCfg = Release|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Release|x64.Build.0 = Release|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Release|x86.ActiveCfg = Release|Any CPU
+		{3B106F5B-A1E1-4856-BF89-6F002660E1CF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
