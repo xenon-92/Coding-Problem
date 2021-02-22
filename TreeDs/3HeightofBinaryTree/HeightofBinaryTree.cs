@@ -1,5 +1,9 @@
 ﻿using System;
-
+/**
+why return -1 and 0
+there is 1 edge for 2 nodes
+and generalising this there is n-1 max edge for n nodes
+*/
 namespace _3HeightofBinaryTree
 {
     class Program
@@ -73,6 +77,7 @@ namespace _3HeightofBinaryTree
             return Math.Max(left, right) + 1;
         }
     }
+    //max number of nodes from leaf to root
     class Solution2
     {
         public int GetHeightOfBinaryTree(TreeNode root)
