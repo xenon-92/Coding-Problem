@@ -1,6 +1,9 @@
 ﻿using System;
 
 /*
+* In tree traversal there are 3! way of traversing since we can begin with left, root or right
+* 3! =6
+* out of 6 only three are important, and in all this 3 methods we traverse left and then right
 Inorder traversal --> (left,root,right)
 */
 namespace _2TreeTraversal_DFS_InOrder
