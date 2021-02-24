@@ -41,7 +41,7 @@ namespace _9HeightOfBinaryTree
             node8.left = node9;
             //node8.right = node10;
             Solution s = new Solution();
-            int res = s.GetHeight(node1);
+            int res = s.SizeofBinaryTree(node1);
             System.Console.WriteLine(res);
         }
     }
@@ -58,11 +58,11 @@ namespace _9HeightOfBinaryTree
 
     class Solution
     {
-        public int GetHeight(TreeNode root)
+        public int SizeofBinaryTree(TreeNode root)
         {
             if (root == null) return 0;
-            int left = GetHeight(root.left);
-            int right = GetHeight(root.right);
+            int left = SizeofBinaryTree(root.left);
+            int right = SizeofBinaryTree(root.right);
             return 1 + left + right;
         }
     }
