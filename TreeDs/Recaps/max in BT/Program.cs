@@ -1,4 +1,56 @@
-class TestSolution
+﻿using System;
+
+namespace max_in_BT
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Solution s = new Solution();
+            var res1 = s.FindMax(TestSolution.DesignBT5());
+            System.Console.WriteLine(res1);
+        }
+    }
+    class TreeNode
+    {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+        public TreeNode(int val)
+        {
+            this.val = val;
+        }
+    }
+
+    class Solution
+    {
+        public int FindMax(TreeNode root)
+        {
+            //return Utility1(root);
+            Utility2(root);
+            System.Console.WriteLine("Sooner or later you are going to die");
+            return max;
+        }
+        int Utility1(TreeNode root)
+        {
+            if (root == null) return int.MinValue;
+            int left = Utility1(root.left);
+            int right = Utility1(root.right);
+            return Math.Max(left, Math.Max(right, root.val));
+        }
+        int max = int.MinValue;
+        void Utility2(TreeNode root)
+        {
+            if (root == null) return;
+            else
+            {
+                max = Math.Max(max, root.val);
+                Utility2(root.left);
+                Utility2(root.right);
+            }
+        }
+    }
+    class TestSolution
     {
         public static TreeNode DesignBT1()
         {
@@ -137,7 +189,7 @@ class TestSolution
             //      /                                             
             //     4                                             
 
-            TreeNode node1 = new TreeNode(1);
+            TreeNode node1 = new TreeNode(1234);
 
             TreeNode node2 = new TreeNode(2);
             TreeNode node3 = new TreeNode(3);
@@ -173,3 +225,4 @@ class TestSolution
             return node1;
         }
     }
+}
