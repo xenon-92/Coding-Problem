@@ -1,3 +1,49 @@
+﻿using System;
+
+
+/*
+diameter of BT: it is defined as the maximum number of nodes between two leaf nodes.
+*/
+namespace _16DiamteterofBT
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Solution s = new Solution();
+            int res1 = s.GetDiamater(TestSolution.DesignBT1());
+            System.Console.WriteLine(res1);
+        }
+    }
+    class TreeNode
+    {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+        public TreeNode(int val)
+        {
+            this.val = val;
+        }
+    }
+
+    class Solution
+    {
+        int max = 0;
+        public int GetDiamater(TreeNode root)
+        {
+            if (root == null) return 0;
+            UtilityHeight(root);
+            return max;
+        }
+        int UtilityHeight(TreeNode root)
+        {
+            if (root == null) return 0;
+            int left = UtilityHeight(root.left);
+            int right = UtilityHeight(root.right);
+            max = Math.Max(max, left + right + 1);
+            return Math.Max(left, right) + 1;
+        }
+    }
 
     class TestSolution
     {
@@ -174,4 +220,5 @@
             return node1;
         }
     }
+
 }
