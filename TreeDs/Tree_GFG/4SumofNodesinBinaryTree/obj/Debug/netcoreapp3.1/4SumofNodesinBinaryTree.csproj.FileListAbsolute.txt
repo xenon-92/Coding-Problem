@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\bin\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\bin\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\bin\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\bin\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\bin\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\bin\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\obj\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\obj\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\obj\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\obj\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\obj\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\obj\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\4SumofNodesinBinaryTree\obj\Debug\netcoreapp3.1\4SumofNodesinBinaryTree.genruntimeconfig.cache

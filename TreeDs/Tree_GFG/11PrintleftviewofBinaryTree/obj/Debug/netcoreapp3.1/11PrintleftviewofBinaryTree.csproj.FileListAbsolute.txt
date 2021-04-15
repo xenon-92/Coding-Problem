@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\bin\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\bin\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\bin\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\bin\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\bin\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\bin\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\obj\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\obj\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\obj\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\obj\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\obj\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\obj\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\11PrintleftviewofBinaryTree\obj\Debug\netcoreapp3.1\11PrintleftviewofBinaryTree.genruntimeconfig.cache

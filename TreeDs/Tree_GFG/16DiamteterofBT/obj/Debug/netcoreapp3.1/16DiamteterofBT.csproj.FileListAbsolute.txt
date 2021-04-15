@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\bin\Debug\netcoreapp3.1\16DiamteterofBT.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\bin\Debug\netcoreapp3.1\16DiamteterofBT.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\bin\Debug\netcoreapp3.1\16DiamteterofBT.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\bin\Debug\netcoreapp3.1\16DiamteterofBT.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\bin\Debug\netcoreapp3.1\16DiamteterofBT.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\bin\Debug\netcoreapp3.1\16DiamteterofBT.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\obj\Debug\netcoreapp3.1\16DiamteterofBT.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\obj\Debug\netcoreapp3.1\16DiamteterofBT.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\obj\Debug\netcoreapp3.1\16DiamteterofBT.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\obj\Debug\netcoreapp3.1\16DiamteterofBT.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\obj\Debug\netcoreapp3.1\16DiamteterofBT.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\obj\Debug\netcoreapp3.1\16DiamteterofBT.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\16DiamteterofBT\obj\Debug\netcoreapp3.1\16DiamteterofBT.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\bin\Debug\netcoreapp3.1\15BTtoDLL.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\bin\Debug\netcoreapp3.1\15BTtoDLL.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\bin\Debug\netcoreapp3.1\15BTtoDLL.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\bin\Debug\netcoreapp3.1\15BTtoDLL.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\bin\Debug\netcoreapp3.1\15BTtoDLL.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\bin\Debug\netcoreapp3.1\15BTtoDLL.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\obj\Debug\netcoreapp3.1\15BTtoDLL.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\obj\Debug\netcoreapp3.1\15BTtoDLL.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\obj\Debug\netcoreapp3.1\15BTtoDLL.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\obj\Debug\netcoreapp3.1\15BTtoDLL.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\obj\Debug\netcoreapp3.1\15BTtoDLL.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\obj\Debug\netcoreapp3.1\15BTtoDLL.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\15BTtoDLL\obj\Debug\netcoreapp3.1\15BTtoDLL.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\bin\Debug\netcoreapp3.1\12ChildrenSumProperty.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\bin\Debug\netcoreapp3.1\12ChildrenSumProperty.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\bin\Debug\netcoreapp3.1\12ChildrenSumProperty.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\bin\Debug\netcoreapp3.1\12ChildrenSumProperty.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\bin\Debug\netcoreapp3.1\12ChildrenSumProperty.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\bin\Debug\netcoreapp3.1\12ChildrenSumProperty.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\obj\Debug\netcoreapp3.1\12ChildrenSumProperty.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\obj\Debug\netcoreapp3.1\12ChildrenSumProperty.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\obj\Debug\netcoreapp3.1\12ChildrenSumProperty.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\obj\Debug\netcoreapp3.1\12ChildrenSumProperty.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\obj\Debug\netcoreapp3.1\12ChildrenSumProperty.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\obj\Debug\netcoreapp3.1\12ChildrenSumProperty.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\12ChildrenSumProperty\obj\Debug\netcoreapp3.1\12ChildrenSumProperty.genruntimeconfig.cache

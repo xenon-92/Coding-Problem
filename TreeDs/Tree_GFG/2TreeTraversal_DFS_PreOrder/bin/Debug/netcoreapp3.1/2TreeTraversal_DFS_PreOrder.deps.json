@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2TreeTraversal_DFS_PreOrder/1.0.0": {
+        "runtime": {
+          "2TreeTraversal_DFS_PreOrder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2TreeTraversal_DFS_PreOrder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

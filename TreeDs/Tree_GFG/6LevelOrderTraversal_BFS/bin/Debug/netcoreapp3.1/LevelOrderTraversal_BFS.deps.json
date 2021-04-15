@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LevelOrderTraversal_BFS/1.0.0": {
+        "runtime": {
+          "LevelOrderTraversal_BFS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LevelOrderTraversal_BFS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

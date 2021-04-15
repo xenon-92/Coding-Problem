@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\bin\Debug\netcoreapp3.1\17printSpiralForm.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\bin\Debug\netcoreapp3.1\17printSpiralForm.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\bin\Debug\netcoreapp3.1\17printSpiralForm.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\bin\Debug\netcoreapp3.1\17printSpiralForm.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\bin\Debug\netcoreapp3.1\17printSpiralForm.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\bin\Debug\netcoreapp3.1\17printSpiralForm.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\obj\Debug\netcoreapp3.1\17printSpiralForm.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\obj\Debug\netcoreapp3.1\17printSpiralForm.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\obj\Debug\netcoreapp3.1\17printSpiralForm.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\obj\Debug\netcoreapp3.1\17printSpiralForm.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\obj\Debug\netcoreapp3.1\17printSpiralForm.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\obj\Debug\netcoreapp3.1\17printSpiralForm.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\17printSpiralForm\obj\Debug\netcoreapp3.1\17printSpiralForm.genruntimeconfig.cache

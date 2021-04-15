@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\bin\Debug\netcoreapp3.1\1TreeCreation.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\bin\Debug\netcoreapp3.1\1TreeCreation.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\bin\Debug\netcoreapp3.1\1TreeCreation.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\bin\Debug\netcoreapp3.1\1TreeCreation.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\bin\Debug\netcoreapp3.1\1TreeCreation.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\bin\Debug\netcoreapp3.1\1TreeCreation.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\obj\Debug\netcoreapp3.1\1TreeCreation.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\obj\Debug\netcoreapp3.1\1TreeCreation.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\obj\Debug\netcoreapp3.1\1TreeCreation.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\obj\Debug\netcoreapp3.1\1TreeCreation.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\obj\Debug\netcoreapp3.1\1TreeCreation.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\obj\Debug\netcoreapp3.1\1TreeCreation.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\1TreeCreation\obj\Debug\netcoreapp3.1\1TreeCreation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\bin\Debug\netcoreapp3.1\5PrintNodesatDistanceK.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\bin\Debug\netcoreapp3.1\5PrintNodesatDistanceK.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\bin\Debug\netcoreapp3.1\5PrintNodesatDistanceK.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\bin\Debug\netcoreapp3.1\5PrintNodesatDistanceK.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\bin\Debug\netcoreapp3.1\5PrintNodesatDistanceK.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\bin\Debug\netcoreapp3.1\5PrintNodesatDistanceK.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\obj\Debug\netcoreapp3.1\5PrintNodesatDistanceK.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\obj\Debug\netcoreapp3.1\5PrintNodesatDistanceK.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\obj\Debug\netcoreapp3.1\5PrintNodesatDistanceK.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\obj\Debug\netcoreapp3.1\5PrintNodesatDistanceK.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\obj\Debug\netcoreapp3.1\5PrintNodesatDistanceK.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\obj\Debug\netcoreapp3.1\5PrintNodesatDistanceK.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\5PrintNodesatDistanceK\obj\Debug\netcoreapp3.1\5PrintNodesatDistanceK.genruntimeconfig.cache

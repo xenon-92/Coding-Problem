@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\obj\Debug\netcoreapp3.1\9sizeofBinaryTree.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\obj\Debug\netcoreapp3.1\9sizeofBinaryTree.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\obj\Debug\netcoreapp3.1\9sizeofBinaryTree.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\obj\Debug\netcoreapp3.1\9sizeofBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\bin\Debug\netcoreapp3.1\9sizeofBinaryTree.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\bin\Debug\netcoreapp3.1\9sizeofBinaryTree.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\bin\Debug\netcoreapp3.1\9sizeofBinaryTree.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\bin\Debug\netcoreapp3.1\9sizeofBinaryTree.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\bin\Debug\netcoreapp3.1\9sizeofBinaryTree.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\bin\Debug\netcoreapp3.1\9sizeofBinaryTree.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\obj\Debug\netcoreapp3.1\9sizeofBinaryTree.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\obj\Debug\netcoreapp3.1\9sizeofBinaryTree.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\9sizeofBinaryTree\obj\Debug\netcoreapp3.1\9sizeofBinaryTree.genruntimeconfig.cache

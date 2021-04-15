@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\bin\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\bin\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\bin\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\bin\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\bin\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\bin\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\obj\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\obj\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\obj\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\obj\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\obj\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\obj\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\10MaxVlaueinBinaryTree\obj\Debug\netcoreapp3.1\10MaxVlaueinBinaryTree.genruntimeconfig.cache

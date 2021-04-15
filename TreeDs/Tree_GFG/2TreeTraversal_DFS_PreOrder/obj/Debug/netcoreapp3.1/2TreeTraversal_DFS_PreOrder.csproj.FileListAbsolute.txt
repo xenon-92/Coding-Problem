@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\bin\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\bin\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\bin\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\bin\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\bin\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\bin\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\obj\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\obj\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\obj\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\obj\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\obj\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\obj\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\2TreeTraversal_DFS_PreOrder\obj\Debug\netcoreapp3.1\2TreeTraversal_DFS_PreOrder.genruntimeconfig.cache
