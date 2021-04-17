@@ -1,13 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace _6_PrintNodesAtDistanceK
+namespace _7_levelOrderTraversal
 {
     class Program
     {
         static void Main(string[] args)
         {
             Solution s = new Solution();
-            s.PrintNodesAtDistanceK(TestSolution.DesignBT1(), 2);
+            s.PrintLevelOrder(TestSolution.DesignBT7());
         }
     }
 
@@ -24,31 +25,27 @@ namespace _6_PrintNodesAtDistanceK
 
     class Solution
     {
-        public void PrintNodesAtDistanceK(TreeNode root, int k)
+        public void PrintLevelOrder(TreeNode root)
         {
-            UtiltyPrint(root, k, 0);
-            System.Console.WriteLine("*****");
-            UtilityPrintAtDistanceK_1(root, k);
-        }
-        void UtiltyPrint(TreeNode root, int k, int j)
-        {
-            if (root == null) return;
-            if (j == k)
+            if (root == null)
             {
-                System.Console.WriteLine(root.val);
+                return;
             }
-            UtiltyPrint(root.left, k, j + 1);
-            UtiltyPrint(root.right, k, j + 1);
-        }
-        void UtilityPrintAtDistanceK_1(TreeNode root, int k)
-        {
-            if (root == null) return;
-            if (k == 0)
+            Queue<TreeNode> q = new Queue<TreeNode>();
+            q.Enqueue(root);
+            while (q.Count != 0)
             {
-                System.Console.WriteLine(root.val);
+                var d = q.Dequeue();
+                System.Console.WriteLine(d.val);
+                if (d.left != null)
+                {
+                    q.Enqueue(d.left);
+                }
+                if (d.right != null)
+                {
+                    q.Enqueue(d.right);
+                }
             }
-            UtilityPrintAtDistanceK_1(root.left, k - 1);
-            UtilityPrintAtDistanceK_1(root.right, k - 1);
         }
     }
     class TestSolution
