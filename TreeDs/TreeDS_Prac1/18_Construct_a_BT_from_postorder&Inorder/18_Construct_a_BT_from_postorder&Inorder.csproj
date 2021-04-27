@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_18_Construct_a_BT_from_postorder_Inorder</RootNamespace>
+  </PropertyGroup>
+
+</Project>
