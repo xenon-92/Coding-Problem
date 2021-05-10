@@ -31,6 +31,7 @@ namespace P7
             // TreeNode x = new TreeNode(1);
             // x.left = new TreeNode(2);
             var res = s.DeleteinBT(TestSolution.DesignBT1(), 2);
+            
             BFS_Print(res);
         }
     }
