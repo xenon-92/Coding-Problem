@@ -1,34 +1,37 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace GFG_6_insertion_in_BT
+namespace P7
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Solution s = new Solution();
-            var res = s.InsertNode(TestSolution.DesignBT6(), 111);
-            PrintBFS(res);
-
-        }
-        static void PrintBFS(TreeNode root)
+        static void BFS_Print(TreeNode root)
         {
             if (root == null) return;
             Queue<TreeNode> q = new Queue<TreeNode>();
             q.Enqueue(root);
-            while (q.Count != 0)
+            q.Enqueue(null);
+            while (q.Count > 1)
             {
-                var c = q.Count;
-                for (int i = 0; i < c; i++)
+                var d = q.Dequeue();
+                if (d == null)
                 {
-                    var d = q.Dequeue();
-                    System.Console.Write(d.val + " ");
-                    if (d.left != null) q.Enqueue(d.left);
-                    if (d.right != null) q.Enqueue(d.right);
+                    q.Enqueue(null);
+                    System.Console.WriteLine();
+                    continue;
                 }
-                System.Console.WriteLine();
+                System.Console.Write(d.val + " ");
+                if (d.left != null) q.Enqueue(d.left);
+                if (d.right != null) q.Enqueue(d.right);
             }
+        }
+        static void Main(string[] args)
+        {
+            Solution s = new Solution();
+            // TreeNode x = new TreeNode(1);
+            // x.left = new TreeNode(2);
+            var res = s.DeleteinBT(TestSolution.DesignBT1(), 2);
+            BFS_Print(res);
         }
     }
 
@@ -45,39 +48,71 @@ namespace GFG_6_insertion_in_BT
 
     class Solution
     {
-        public TreeNode InsertNode(TreeNode root, int k)
+        public TreeNode DeleteinBT(TreeNode root, int k)
         {
-            if (root == null)
-            {
-                return new TreeNode(k);
-            }
+            if (root == null) return null;
+            TreeNode btm = GetBottmMostRghtNode(root);
+            Traversal(root, btm, k);
+            //BFS(root, btm, k);
+            return root;
+        }
+        void BFS(TreeNode root, TreeNode btm, int k)
+        {
             Queue<TreeNode> q = new Queue<TreeNode>();
             q.Enqueue(root);
             while (q.Count != 0)
             {
-                var d = q.Dequeue();
-                if (d.left == null)
+                var c = q.Count;
+                for (int i = 0; i < c; i++)
                 {
-                    d.left = new TreeNode(k);
-                    break;
-                }
-                else
-                {
-                    q.Enqueue(d.left);
-                }
-                if (d.right == null)
-                {
-                    d.right = new TreeNode(k);
-                    break;
-                }
-                else
-                {
-                    q.Enqueue(d.right);
+                    var d = q.Dequeue();
+                    if (d.val == k) d.val = btm.val;
+                    if (d.left != null)
+                    {
+                        if (d.left == btm) d.left = null;
+                        else q.Enqueue(d.left);
+                    }
+                    if (d.right != null)
+                    {
+                        if (d.right == btm) d.right = null;
+                        else q.Enqueue(d.right);
+
+                    }
                 }
             }
-            return root;
+        }
+        void Traversal(TreeNode root, TreeNode btm, int k)
+        {
+            if (root == null) return;
+            if (root.val == k)
+            {
+                root.val = btm.val;
+            }
+            Traversal(root.left, btm, k);
+            Traversal(root.right, btm, k);
+            if (root.left == btm) root.left = null;
+            if (root.right == btm) root.right = null;
+        }
+        TreeNode GetBottmMostRghtNode(TreeNode root)
+        {
+            Queue<TreeNode> q = new Queue<TreeNode>();
+            q.Enqueue(root);
+            TreeNode temp = null;
+            while (q.Count != 0)
+            {
+                var c = q.Count;
+                for (int i = 0; i < c; i++)
+                {
+                    var d = q.Dequeue();
+                    temp = d;
+                    if (d.left != null) q.Enqueue(d.left);
+                    if (d.right != null) q.Enqueue(d.right);
+                }
+            }
+            return temp;
         }
     }
+
     class TestSolution
     {
         public static TreeNode DesignBT1()

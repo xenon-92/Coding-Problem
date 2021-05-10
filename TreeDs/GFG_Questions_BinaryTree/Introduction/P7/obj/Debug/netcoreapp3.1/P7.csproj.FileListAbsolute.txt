@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\bin\Debug\netcoreapp3.1\P7.exe
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\bin\Debug\netcoreapp3.1\P7.deps.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\bin\Debug\netcoreapp3.1\P7.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\bin\Debug\netcoreapp3.1\P7.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\bin\Debug\netcoreapp3.1\P7.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\bin\Debug\netcoreapp3.1\P7.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\obj\Debug\netcoreapp3.1\P7.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\obj\Debug\netcoreapp3.1\P7.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\obj\Debug\netcoreapp3.1\P7.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\obj\Debug\netcoreapp3.1\P7.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\obj\Debug\netcoreapp3.1\P7.dll
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\obj\Debug\netcoreapp3.1\P7.pdb
+C:\Users\sumit\source\repos\DSA\Coding Problem\TreeDs\GFG_Questions_BinaryTree\Introduction\P7\obj\Debug\netcoreapp3.1\P7.genruntimeconfig.cache
