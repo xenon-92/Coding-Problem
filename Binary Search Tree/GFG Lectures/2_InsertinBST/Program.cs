@@ -30,7 +30,7 @@ namespace _2_InsertinBST
         static void Main(string[] args)
         {
             Solution s = new Solution();
-            var res = s.InsertRecursive(TestSolution.DesignBST9(), 41);
+            var res = s.InsertRecursive(TestSolution.DesignBST9(), 32);
             var res1 = s.InsertIterative(TestSolution.DesignBST9(), 41);
             PrintBFS(res);
             System.Console.WriteLine();
