@@ -64,13 +64,13 @@ namespace _3_DeleteinBST
                 if (root.left == null)
                 {
                     var temp = root.right;
-                    //root = null;
+                    root = null;
                     return temp;
                 }
                 if (root.right == null)
                 {
                     var temp = root.left;
-                    //root = null;
+                    root = null;
                     return temp;
                 }
                 else
