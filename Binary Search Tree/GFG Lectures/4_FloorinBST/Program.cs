@@ -7,8 +7,10 @@ namespace _4_FloorinBST
         static void Main(string[] args)
         {
             Solution s = new Solution();
-            var res = s.FindFloorinBST(TestSolution.DesignBST2(), 0);
-            System.Console.WriteLine(res?.val);
+            var res = s.FindFloorinBST(TestSolution.DesignBST2(), 72);
+            EfficientSolution e1 = new EfficientSolution();
+            var res1 = e1.GetFloorinBST(TestSolution.DesignBST2(), 72);
+            System.Console.WriteLine(res?.val + " " + res1?.val);
         }
     }
     class TreeNode
@@ -57,6 +59,30 @@ namespace _4_FloorinBST
                 root.right = Utility(root.right, k);
             }
             return root;
+        }
+    }
+    //
+    class EfficientSolution
+    {
+        public TreeNode GetFloorinBST(TreeNode root, int k)
+        {
+            int max = int.MinValue;
+            while (root != null)
+            {
+                if (root.val == k) return root;
+                if (root.val < k)
+                {
+                    max = Math.Max(max, root.val);
+                    root = root.right;
+
+                }
+                else
+                {
+                    root = root.left;
+                }
+            }
+            if (max == int.MinValue) return null;
+            return new TreeNode(max);
         }
     }
     class TestSolution
