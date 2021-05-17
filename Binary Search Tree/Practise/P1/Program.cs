@@ -1,4 +1,57 @@
- class TestSolution
+﻿using System;
+using System.Collections.Generic;
+
+namespace P1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // SolutionSearch s = new SolutionSearch();
+            // var res = s.SearchBST(TestSolution.DesignBST2(), 93);
+            // var res1 = s.SearchBSTIterative(TestSolution.DesignBST2(), 93);
+            // SolutionInsert s = new SolutionInsert();
+            // var res = s.Insert(TestSolution.DesignBST2(), 93);
+            // var res1 = s.InsertIterative(TestSolution.DesignBST2(), 93);
+            // PrintBFS(res);
+            // System.Console.WriteLine();
+            // PrintBFS(res1);
+
+            Solution s = new Solution();
+            var res = s.Delete(TestSolution.DesignBST2(), 56);
+            PrintBFS(res);
+        }
+        static void PrintBFS(TreeNode root)
+        {
+            if (root == null) return;
+            Queue<TreeNode> q = new Queue<TreeNode>();
+            q.Enqueue(root);
+            while (q.Count != 0)
+            {
+                var c = q.Count;
+                for (int i = 0; i < c; i++)
+                {
+                    var d = q.Dequeue();
+                    System.Console.Write(d.val + " ");
+                    if (d.left != null) q.Enqueue(d.left);
+                    if (d.right != null) q.Enqueue(d.right);
+                }
+                System.Console.WriteLine();
+            }
+        }
+    }
+    class TreeNode
+    {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+        public TreeNode(int val)
+        {
+            this.val = val;
+        }
+    }
+
+    class TestSolution
     {
         static int idx = 0;
 
@@ -159,3 +212,4 @@
             return UtilityCreateBST(preOrder, int.MinValue, int.MaxValue);
         }
     }
+}
