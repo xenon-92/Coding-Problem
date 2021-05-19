@@ -1,4 +1,77 @@
-class TestSolution
+﻿using System;
+using System.Collections.Generic;
+
+namespace P15
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Solution s = new Solution();
+            s.P15(TestSolution.DesignBT9());
+        }
+    }
+
+    class TreeNode
+    {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+        public TreeNode(int val)
+        {
+            this.val = val;
+        }
+    }
+
+    class Solution
+    {
+        public void P15(TreeNode root)
+        {
+            if (root == null) return;
+            Queue<TreeNode> q = new Queue<TreeNode>();
+            Stack<int> s = new Stack<int>();
+            q.Enqueue(root);
+            int count = 0; bool LtoR = true;
+            while (q.Count != 0)
+            {
+                var c = q.Count;
+                for (int i = 0; i < c; i++)
+                {
+                    var d = q.Dequeue();
+                    if (LtoR)
+                    {
+                        System.Console.Write(d.val + " ");
+                    }
+                    else
+                    {
+                        s.Push(d.val);
+                    }
+                    if (d.left != null) q.Enqueue(d.left);
+                    if (d.right != null) q.Enqueue(d.right);
+                }
+                System.Console.WriteLine();
+
+                count += 1;
+
+
+                if (!LtoR)
+                {
+                    while (s.Count != 0)
+                    {
+                        System.Console.Write(s.Pop() + " ");
+                    }
+                    System.Console.WriteLine();
+                }
+
+                if (count == 2)
+                {
+                    LtoR = false;
+                    count = 0;
+                }
+            }
+        }
+    }
+    class TestSolution
     {
         public static TreeNode DesignBT1()
         {
@@ -307,3 +380,4 @@ class TestSolution
             return node1;
         }
     }
+}
