@@ -31,20 +31,20 @@ namespace P4
     }
     class Solution
     {
-        public void PrintPostOrder(int[] postorder, int[] inorder)
+        public void PrintPostOrder(int[] preorder, int[] inorder)
         {
             gIdx = 0;
-            if (postorder == null || inorder == null || postorder.Length != inorder.Length)
+            if (preorder == null || inorder == null || preorder.Length != inorder.Length)
             {
                 return;
             }
-            UtilityPrintPostOrder(postorder, inorder, 0, inorder.Length - 1);
+            UtilityPrintPostOrder(preorder, inorder, 0, inorder.Length - 1);
         }
         int gIdx = 0;
-        void UtilityPrintPostOrder(int[] postorder, int[] inorder, int iStart, int iEnd)
+        void UtilityPrintPostOrder(int[] preorder, int[] inorder, int iStart, int iEnd)
         {
             if (iStart > iEnd) return;
-            int value = postorder[gIdx];
+            int value = preorder[gIdx];
             gIdx += 1;
             int idx = 0;
             for (int i = iStart; i <= iEnd; i++)
@@ -55,8 +55,8 @@ namespace P4
                     break;
                 }
             }
-            UtilityPrintPostOrder(postorder, inorder, iStart, idx - 1);
-            UtilityPrintPostOrder(postorder, inorder, idx + 1, iEnd);
+            UtilityPrintPostOrder(preorder, inorder, iStart, idx - 1);
+            UtilityPrintPostOrder(preorder, inorder, idx + 1, iEnd);
             System.Console.Write(value + " ");
         }
     }
