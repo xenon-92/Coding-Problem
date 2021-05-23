@@ -1,4 +1,72 @@
-class TestSolution
+﻿using System;
+using System.Collections.Generic;
+
+namespace P19
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Solution s = new Solution();
+            s.P19(TestSolution.DesignBT10());
+        }
+    }
+
+    class TreeNode
+    {
+        public int val;
+        public TreeNode left;
+        public TreeNode right;
+        public TreeNode(int val)
+        {
+            this.val = val;
+        }
+    }
+
+    class Solution
+    {
+        public void P19(TreeNode root)
+        {
+            if (root == null) return;
+            Queue<TreeNode> q = new Queue<TreeNode>();
+            q.Enqueue(root);
+            Stack<List<int>> s = new Stack<List<int>>();
+
+            while (q.Count != 0)
+            {
+                var c = q.Count;
+                List<int> lst = new List<int>();
+                for (int i = 0; i < c; i++)
+                {
+                    var d = q.Dequeue();
+                    if (d.left != null) q.Enqueue(d.left);
+                    if (d.right != null) q.Enqueue(d.right);
+                    lst.Add(d.val);
+                }
+                s.Push(lst);
+            }
+
+            while (s.Count != 0)
+            {
+                var poped = s.Pop();
+                if (poped.Count == 1)
+                {
+                    System.Console.Write(poped[0] + " ");
+                }
+                else
+                {
+                    int i = 0; int j = poped.Count - 1;
+                    while (i < j)
+                    {
+                        System.Console.Write(poped[i] + " " + poped[j] + " ");
+                        i += 1;
+                        j -= 1;
+                    }
+                }
+            }
+        }
+    }
+    class TestSolution
     {
         public static TreeNode DesignBT1()
         {
@@ -345,3 +413,4 @@ class TestSolution
             return node1;
         }
     }
+}
