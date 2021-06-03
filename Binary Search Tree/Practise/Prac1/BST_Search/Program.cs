@@ -1,45 +1,18 @@
 ﻿using System;
-using System.Collections.Generic;
 
-namespace P1
+namespace BST_Search
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // SolutionSearch s = new SolutionSearch();
-            // var res = s.SearchBST(TestSolution.DesignBST2(), 93);
-            // var res1 = s.SearchBSTIterative(TestSolution.DesignBST2(), 93);
-            // SolutionInsert s = new SolutionInsert();
-            // var res = s.Insert(TestSolution.DesignBST2(), 93);
-            // var res1 = s.InsertIterative(TestSolution.DesignBST2(), 93);
-            // PrintBFS(res);
-            // System.Console.WriteLine();
-            // PrintBFS(res1);
-
             Solution s = new Solution();
-            var res = s.Delete(TestSolution.DesignBST2(), 56);
-            PrintBFS(res);
-        }
-        static void PrintBFS(TreeNode root)
-        {
-            if (root == null) return;
-            Queue<TreeNode> q = new Queue<TreeNode>();
-            q.Enqueue(root);
-            while (q.Count != 0)
-            {
-                var c = q.Count;
-                for (int i = 0; i < c; i++)
-                {
-                    var d = q.Dequeue();
-                    System.Console.Write(d.val + " ");
-                    if (d.left != null) q.Enqueue(d.left);
-                    if (d.right != null) q.Enqueue(d.right);
-                }
-                System.Console.WriteLine();
-            }
+            var res = s.BST_Search(TestSolution.DesignBST2(), 42);
+            var res1 = s.BST_Search_Iterative(TestSolution.DesignBST2(), 42);
+            System.Console.WriteLine(res + " " + res1);
         }
     }
+
     class TreeNode
     {
         public int val;
@@ -51,6 +24,46 @@ namespace P1
         }
     }
 
+    class Solution
+    {
+        public int p = 0;
+        public bool BST_Search(TreeNode root, int k)
+        {
+            if (root == null) return false;
+            p += 1;
+            if (root.val == k) return true;
+            if (root.val < k)
+            {
+                bool right = BST_Search(root.right, k);
+                return right;
+            }
+            else
+            {
+                bool left = BST_Search(root.left, k);
+                return left;
+            }
+        }
+
+        public bool BST_Search_Iterative(TreeNode root, int key)
+        {
+            while (root != null)
+            {
+                if (root.val == key)
+                {
+                    return true;
+                }
+                if (root.val < key)
+                {
+                    root = root.right;
+                }
+                else
+                {
+                    root = root.left;
+                }
+            }
+            return false;
+        }
+    }
     class TestSolution
     {
         static int idx = 0;
